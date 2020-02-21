@@ -1,0 +1,46 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 150,
+	"auto_match_enabled": false,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"draw_indent_guides": false,
+	"draw_minimap_border": true,
+	"draw_white_space": "none",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"fold_buttons": false,
+	"font_options":
+	[
+		"no_italic"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"sublime_zk",
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"remember_full_screen": true,
+	"rulers":
+	[
+		0,
+		80,
+		100,
+		140
+	],
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"show_panel_on_build": true,
+	"spell_check": false,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}
